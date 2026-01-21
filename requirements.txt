@@ -10,7 +10,8 @@ easydict
 ftfy
 dashscope
 imageio-ffmpeg
-# numpy==1.24.4
+flash_attn
+numpy==1.26.4
 wandb
 omegaconf
 einops
@@ -36,5 +37,5 @@ onnxscript
 onnxconverter_common
 flask
 flask-socketio
-torchao
+torchao==0.15.0
 peft
